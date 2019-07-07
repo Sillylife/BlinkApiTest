@@ -1,2 +1,2 @@
-# BlinkApiTest
-Test Api for blink. Clone and use 'python manage.py runserver' cmd to run the program
+# blinkApiTest
+Api test for blink. Clone and use command "python manage.py runserver". Api will be returned on the url "/cloths".
